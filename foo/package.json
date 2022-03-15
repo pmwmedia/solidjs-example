@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "source": "src/index.tsx",
+  "scripts": {
+    "parcel:build": "npx parcel build"
+  }
+}
